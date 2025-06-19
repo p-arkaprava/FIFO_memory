@@ -2084,11 +2084,4 @@ TIME =                39810, data_out =   1, mem =  17
 TIME =                39830, data_out =   1, mem =  17
 TIME =                39850, data_out =   1, mem =  17
 TIME =                39870, data_out =   1, mem =  17
-TIME =                39890, data_out =   1, mem =  17
-TIME =                39910, data_out =   1, mem =  17
-TIME =                39930, data_out =   1, mem =  17
-TIME =                39950, data_out =   1, mem =  17
-TIME =                39970, data_out =   1, mem =  17
-TIME =                39990, data_out =   1, mem =  17
--------------- THE SIMUALTION FINISHED ------------
-$finish called at time : 400 ns : File "C:/Users/arkap/FIFO_mem/FIFO_mem.srcs/sim_1/new/tb_fifo_32.v" Line 157
+TIME =            
