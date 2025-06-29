@@ -80,8 +80,12 @@ This project demonstrates:
 ---
 
 ## 👨‍💻 Author
-
 **Arkaprava Paul**  
+B.Tech in Electronics and Electrical Engineering  
+Minor in Computer Science and Engineering  
+Indian Institute of Technology, Guwahati  
+📧 imapaul05@gmail.com | p.Arkaprava@iitg.ac.in  
+🔗 [LinkedIn](www.linkedin.com/in/arkaprava-paul-73223a314) 
 
 
 ---
