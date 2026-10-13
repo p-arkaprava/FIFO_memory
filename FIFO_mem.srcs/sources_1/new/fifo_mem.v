@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Arkaprava Paul
 // 
 // Create Date: 02.06.2025 21:24:43
 // Design Name: 
